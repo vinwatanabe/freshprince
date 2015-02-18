@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+}
+h1{
+	color: grey;
+	font-family: Times New Roman;
+	text-align: center;
+}
+
+p{
+	color: white;
+	font-family: Times New Roman;
+	text-align:center;
+}
+
+a{
+	color: green;
+	font-family: Arial;
+}
